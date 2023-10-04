@@ -30,37 +30,46 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 ### Q1) Update all the records of manager table by increasing 10% of their salary as bonus.
 
 ### QUERY:
-![271174892-081ff76d-e743-4fee-993b-4fd367716f94](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/05b8e48e-bac1-4f23-9cdc-532a36e91b08)
+
+![image](https://github.com/Naveensrinivasan07/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119475891/69bb52fd-0664-4fdc-9440-82a4f8166b7d)
+
+
+
+
+
 
 
 ### OUTPUT:
-![271174912-b667993b-d5b9-4197-be2c-ee7cab1c7d1e](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/e2ece943-fe5f-4528-800c-8fd80fd3237a)
+![image](https://github.com/Naveensrinivasan07/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119475891/7dea8b82-a988-4a53-80bc-363ce9f07f23)
 
 ### Q2) Delete the records from manager table where the salary less than 2750.
 
 
 ### QUERY:
-![271174961-c3469723-36d2-4488-ac58-b5c8683a0e93](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/e103ded2-1fca-456a-82ec-9cab445998a5)
+![image](https://github.com/Naveensrinivasan07/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119475891/ea87d773-31fd-44f4-9337-00f182eb18c7)
+
 
 
 ### OUTPUT:
-![271174985-91233fd3-5dfa-4318-b62f-db528e31914c](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/2a0d458c-9b5e-45da-b794-d4c5a2c57ce4)
+![image](https://github.com/Naveensrinivasan07/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119475891/151bbb01-98e6-4525-9d0c-5e2cedf3d795)
+
 
 ### Q3) Display each name of the employee as “Name” and annual salary as “Annual Salary” (Note: Salary in emp table is the monthly salary)
 
 
 ### QUERY:
-![271175005-180d48fb-dd02-4d7e-991d-79e92d50f3ae](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/c49af33e-5ea9-4248-b35d-973fcaf03dac)
+![image](https://github.com/Naveensrinivasan07/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119475891/79fb1ce4-0221-404a-9f99-081e0c5b9fbc)
+
 
 
 ### OUTPUT:
-![271175026-cbf1e6e9-9633-4cf9-ad85-341e7b03c613](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/8f5dcfe3-2030-4d1d-8001-e8023052e863)
+![image](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/8f5dcfe3-2030-4d1d-8001-e8023052e863)
 
 ### Q5)	List the names of Clerks from emp table.
 
 
 ### QUERY:
-![271175146-a65b548c-2cd5-45c9-b21b-89cbdb1114c4](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/d6d15944-a24a-4b37-9d3b-1bd3158d8f7d)
+![image](https://github.com/22009011/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118343461/d6d15944-a24a-4b37-9d3b-1bd3158d8f7d)
 
 
 ### OUTPUT:
